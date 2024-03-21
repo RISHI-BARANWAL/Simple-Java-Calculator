@@ -16,7 +16,7 @@
  * @modemail    kchantza@csd.auth.gr
  */
 
-package simple-java-calculator;
+package Simple-Java-Calculator;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
