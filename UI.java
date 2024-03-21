@@ -55,8 +55,7 @@ public class UI implements ActionListener {
       butCos, butSin, butTan, butxpowerofy, butlog, butrate, butabs, butBinary, butln;
    private final Calculator calc;
    
-   private final String[] buttonValue = {"0", "1", "2", "3", "4", "5", "6",
-      "7", "8", "9"};
+   private final String[] buttonValue = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};
    
 
    private final Font font;
