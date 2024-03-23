@@ -28,7 +28,7 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 **[My Simple CALCULATOR](https://github.com/RISHI-BARANWAL/Calculator-).**
 
-[![Open-Source Simple HTML CALCULATOR]("Screenshots/screenshot2.png")
+![Open-Source Simple HTML CALCULATOR](Screenshots/screenshot2.png)
 
 
 ## 💡 Authors
