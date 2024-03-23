@@ -26,9 +26,9 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 ## You might also like : calculator:
 
-**[My Simple Java Text Editor](https://github.com/RISHI-BARANWAL/Calculator-).**
+**[My Simple CALCULATOR](https://github.com/RISHI-BARANWAL/Calculator-).**
 
-[![Open-Source Simple Java Text Editor]("https://github.com/RISHI-BARANWAL/Calculator-")
+[![Open-Source Simple HTML CALCULATOR]("Screenshots/screenshot2.png")
 
 
 ## 💡 Authors
