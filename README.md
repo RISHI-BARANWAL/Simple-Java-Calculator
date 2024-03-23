@@ -39,7 +39,6 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 ### Modifications and Improvements
 
-- [Achintha Gunasekara](http://www.achinthagunasekara.com)
 - [ASRB](https://github.com/RISHI-BARANWAL)
 
 
