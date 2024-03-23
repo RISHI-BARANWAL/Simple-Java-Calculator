@@ -24,30 +24,28 @@ java -jar /your_calculator_directory/SimpleJavaCalculator.jar`
 
 ![Example: Java Calculator](Screenshots/screenshot.png)
 
-## You might also like :monocle_face:
+## You might also like : calculator:
 
-**[My Simple Java Text Editor](https://github.com/pH-7/Simple-Java-Text-Editor).**
+**[My Simple Java Text Editor](https://github.com/RISHI-BARANWAL/Calculator-).**
 
-[![Open-Source Simple Java Text Editor](https://github.com/pH-7/Simple-Java-Text-Editor/blob/master/Screenshots/find-replace-word-in-java-text-editor.png)](https://github.com/pH-7/Simple-Java-Text-Editor "Open-Source Simple Java Text Editor")
+[![Open-Source Simple Java Text Editor]("https://github.com/RISHI-BARANWAL/Calculator-")
 
 
 ## 💡 Authors
 
 ### Base Application
 
-- **[Pierre-Henry Soria](https://ph7.me)**
+- **[ASRB](https://github.com/RISHI-BARANWAL)**
 
 ### Modifications and Improvements
 
 - [Achintha Gunasekara](http://www.achinthagunasekara.com)
-- [xdvrx1](https://github.com/xdvrx1)
+- [ASRB](https://github.com/RISHI-BARANWAL)
 
 
 ## 📮 Contact
 
-Pierre-Henry Soria: pierrehs [AT] hotmail [D0T] com
-
-Achintha Gunasekara: contact [AT] achinthagunasekara [D0T] com
+Gmail : rishibaranwal22 [AT] gmail [D0T] com
 
 
 ## ⚖️ License
